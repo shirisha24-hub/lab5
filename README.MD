@@ -76,11 +76,6 @@
 
    - Run the Django development server and navigate to `http://127.0.0.1:8000/api/public/` to test if your API is working.
 
-7. **Repository and Screenshots**
-   - Upload your code to a GitHub repository.
-   - Include screenshots of the steps in this README file.
-   - Ensure the screenshots clearly show the successful implementation of the API.
-
 ### Screenshots
 
 #### Step 7: API Endpoint Result
